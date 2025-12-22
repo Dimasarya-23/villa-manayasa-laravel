@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/villa-logo.png') }}" alt="Villa Manayasa Logo" class="w-20 h-20" {{ $attributes }}>
